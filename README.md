@@ -18,3 +18,9 @@
 tbd
 ### Object Detection
 tbd
+### Style Transfer
+tbd
+### Image Generation
+tbd
+###Text2Image: Image generation from text promt
+tbd
